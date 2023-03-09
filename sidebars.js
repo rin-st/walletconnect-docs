@@ -432,6 +432,16 @@ module.exports = {
             "kotlin/web3wallet/upgrade-guide",
           ],
         },
+        {
+          type: "category",
+          label: "Web3Inbox SDK",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            "kotlin/web3inbox/installation",
+            "kotlin/web3inbox/wallet-usage",
+          ],
+        },
       ],
     },
     {
